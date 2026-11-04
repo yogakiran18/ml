@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: aqi_postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-aqi_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  airflow:
+    image: apache/airflow:2.7.1
+    container_name: aqi_airflow
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./ingestion:/opt/airflow/ingestion
+      - ./etl:/opt/airflow/etl
+      - ./db:/opt/airflow/db
+      - ./data:/opt/airflow/data
+      - ./tests:/opt/airflow/tests
+      - ./.env:/opt/airflow/.env
+      - ./populate_sqlite.py:/opt/airflow/populate_sqlite.py
+      - ./features:/opt/airflow/features
+      - ./models:/opt/airflow/models
+      - ./mlflow:/opt/airflow/mlflow
+      - ./serving:/opt/airflow/serving
+      - ./monitoring:/opt/airflow/monitoring
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - _PIP_ADDITIONAL_REQUIREMENTS=pandas requests python-dotenv psycopg2-binary mlflow scikit-learn numpy
+      - PYTHONPATH=/opt/airflow
+    command: standalone
+    depends_on:
+      - postgres
+    restart: unless-stopped
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.7.1
+    container_name: aqi_mlflow
+    ports:
+      - "5000:5000"
+    command: >
+      mlflow server
+      --backend-store-uri sqlite:////mlflow/mlflow.db
+      --default-artifact-root /mlflow/artifacts
+      --host 0.0.0.0
+    volumes:
+      - ./mlflow:/mlflow
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

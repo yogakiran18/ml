@@ -1,0 +1,43 @@
+artifact_path: file:///C:/Users/kiran/OneDrive/Desktop/mlops/aqi-pipeline/mlruns/1/models/m-0e9b3a66db0f4ceea8f5b023185060a5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.4.2
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.16.0
+model_id: m-0e9b3a66db0f4ceea8f5b023185060a5
+model_size_bytes: 11118
+model_uuid: m-0e9b3a66db0f4ceea8f5b023185060a5
+prompts: null
+run_id: 36327712eab941478dd337aec65bc5ec
+signature:
+  inputs: '[{"type": "double", "name": "lag_1_pm25", "required": true}, {"type": "double",
+    "name": "lag_1_temp", "required": true}, {"type": "double", "name": "temperature_2m_avg",
+    "required": true}, {"type": "long", "name": "day_of_week", "required": true},
+    {"type": "long", "name": "month", "required": true}, {"type": "long", "name":
+    "station_Ahmedabad", "required": true}, {"type": "long", "name": "station_Beijing",
+    "required": true}, {"type": "long", "name": "station_Bengaluru", "required": true},
+    {"type": "long", "name": "station_Chennai", "required": true}, {"type": "long",
+    "name": "station_Delhi", "required": true}, {"type": "long", "name": "station_Hyderabad",
+    "required": true}, {"type": "long", "name": "station_Kolkata", "required": true},
+    {"type": "long", "name": "station_London", "required": true}, {"type": "long",
+    "name": "station_Los Angeles", "required": true}, {"type": "long", "name": "station_Mumbai",
+    "required": true}, {"type": "long", "name": "station_New York", "required": true},
+    {"type": "long", "name": "station_Paris", "required": true}, {"type": "long",
+    "name": "station_Pune", "required": true}, {"type": "long", "name": "station_Sydney",
+    "required": true}, {"type": "long", "name": "station_Tokyo", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-10-14 09:47:44.900897'

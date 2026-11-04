@@ -1,0 +1,38 @@
+artifact_path: file:///C:/Users/kiran/OneDrive/Desktop/mlops/aqi-pipeline/mlruns/1/models/m-b34f8a9c3b5743c694593f2846d23d02/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.4.2
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.16.0
+model_id: m-b34f8a9c3b5743c694593f2846d23d02
+model_size_bytes: 193959
+model_uuid: m-b34f8a9c3b5743c694593f2846d23d02
+prompts: null
+run_id: 9eb62d54f8d84d799fd987e4a70b1cce
+signature:
+  inputs: '[{"type": "double", "name": "lag_1_pm25", "required": true}, {"type": "double",
+    "name": "lag_1_temp", "required": true}, {"type": "double", "name": "temperature_2m_avg",
+    "required": true}, {"type": "long", "name": "day_of_week", "required": true},
+    {"type": "long", "name": "month", "required": true}, {"type": "long", "name":
+    "station_Beijing", "required": true}, {"type": "long", "name": "station_Delhi",
+    "required": true}, {"type": "long", "name": "station_London", "required": true},
+    {"type": "long", "name": "station_Los Angeles", "required": true}, {"type": "long",
+    "name": "station_New York", "required": true}, {"type": "long", "name": "station_Paris",
+    "required": true}, {"type": "long", "name": "station_Sydney", "required": true},
+    {"type": "long", "name": "station_Tokyo", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-08 11:51:37.574530'

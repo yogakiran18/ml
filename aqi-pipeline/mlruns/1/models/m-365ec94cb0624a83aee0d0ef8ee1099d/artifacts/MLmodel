@@ -1,0 +1,32 @@
+artifact_path: file:///C:/Users/kiran/OneDrive/Desktop/mlops/aqi-pipeline/mlruns/1/models/m-365ec94cb0624a83aee0d0ef8ee1099d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.4.2
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.16.0
+model_id: m-365ec94cb0624a83aee0d0ef8ee1099d
+model_size_bytes: 7208
+model_uuid: m-365ec94cb0624a83aee0d0ef8ee1099d
+prompts: null
+run_id: 405436e33b3b44c6914b7b5416136c54
+signature:
+  inputs: '[{"type": "double", "name": "lag_1_pm25", "required": true}, {"type": "double",
+    "name": "lag_1_temp", "required": true}, {"type": "double", "name": "temperature_2m_avg",
+    "required": true}, {"type": "long", "name": "day_of_week", "required": true},
+    {"type": "long", "name": "month", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-09-08 10:38:46.964046'

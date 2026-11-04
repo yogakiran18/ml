@@ -1,0 +1,3244 @@
+{
+  "results": [
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 9.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 8.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 9.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 10.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 11.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 14.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 18.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 20.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 23.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 26.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 29.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 31.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 32.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 33.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 36.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 33.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 27.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 26.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 26.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 24.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 24.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 22.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Los Angeles",
+      "parameter": "pm25",
+      "value": 21.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 16.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 17.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 17.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 19.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 21.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 23.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 27.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 31.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 35.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 37.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 36.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 36.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 32.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 28.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 15.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 9.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 7.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 7.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 7.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 7.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 7.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 6.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 8.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "New York",
+      "parameter": "pm25",
+      "value": 10.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 16.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 18.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 18.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 18.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 15.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 14.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 13.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 14.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 15.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 10.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 6.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 5.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 3.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 2.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 3.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 3.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 3.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 4.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 4.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 4.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 4.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 5.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 4.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "London",
+      "parameter": "pm25",
+      "value": 5.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 9.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 9.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 9.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 10.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 11.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 12.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 14.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 20.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 29.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 41.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 47.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 45.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 72.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 66.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 58.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 46.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 34.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 24.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 18.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 15.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 16.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 25.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 36.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Tokyo",
+      "parameter": "pm25",
+      "value": 27.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 10.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 10.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 10.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 10.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 9.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 12.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 15.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 17.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 20.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 17.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 10.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 8.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 7.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 6.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 7.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 7.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 7.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 8.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 9.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 8.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 8.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 6.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Paris",
+      "parameter": "pm25",
+      "value": 2.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 87.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 88.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 88.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 84.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 81.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 79.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 74.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 72.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 72.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 72.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 70.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 70.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 72.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 79.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 89.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 92.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 92.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 95.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 98.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 102.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 105.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 104.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 101.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Delhi",
+      "parameter": "pm25",
+      "value": 99.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 132.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 97.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 70.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 64.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 60.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 57.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 55.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 51.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 48.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 57.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 81.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 103.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 112.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 125.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 135.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 144.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 148.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 147.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 145.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 143.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 140.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 140.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 147.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Beijing",
+      "parameter": "pm25",
+      "value": 182.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 11.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 10.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 9.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 9.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 10.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 11.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 15.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 15.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 17.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 11.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 11.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 13.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 15.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 19.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 15.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 17.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 17.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 11.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Sydney",
+      "parameter": "pm25",
+      "value": 12.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 45.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 46.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 47.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 49.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 51.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 54.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 58.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 61.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 62.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 66.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 64.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 60.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 75.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 67.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 61.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 58.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 57.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 62.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 70.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 74.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 76.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 75.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 75.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Mumbai",
+      "parameter": "pm25",
+      "value": 75.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 32.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 38.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 32.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 29.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 29.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 27.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 26.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 26.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 32.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 32.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 28.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 23.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 19.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 16.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 14.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 13.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 12.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Bengaluru",
+      "parameter": "pm25",
+      "value": 12.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 15.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 10.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 11.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 15.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 13.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 11.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 11.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 11.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 12.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 13.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 13.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 14.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 14.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 14.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 14.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 15.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 15.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Chennai",
+      "parameter": "pm25",
+      "value": 14.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 64.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 70.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 66.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 58.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 56.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 56.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 58.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 60.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 61.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 62.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 62.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 64.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 83.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 95.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 93.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 91.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 100.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 113.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 121.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 126.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 110.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 78.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 66.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Kolkata",
+      "parameter": "pm25",
+      "value": 62.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 57.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 64.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 60.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 47.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 39.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 33.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 32.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 28.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 27.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 26.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 25.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 25.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 25.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 28.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 31.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 34.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 36.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 36.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 35.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 34.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 34.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 34.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 33.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Hyderabad",
+      "parameter": "pm25",
+      "value": 32.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 61.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 66.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 56.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 39.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 28.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 24.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 22.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 21.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 20.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 21.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 21.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 22.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 32.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 35.7,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 39.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 42.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 45.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 47.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 47.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 46.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 47.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 48.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 49.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Pune",
+      "parameter": "pm25",
+      "value": 49.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 63.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T00:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 64.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T01:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 66.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T02:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 58.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T03:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 54.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T04:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 55.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T05:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 58.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T06:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 60.1,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T07:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 59.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T08:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 58.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T09:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 56.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T10:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 54.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T11:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 56.0,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T12:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 58.4,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T13:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 59.6,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T14:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 56.3,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T15:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 51.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T16:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 46.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T17:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 41.9,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T18:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 35.5,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T19:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 30.2,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T20:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 25.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T21:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 22.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T22:00:00Z"
+      }
+    },
+    {
+      "location": "Ahmedabad",
+      "parameter": "pm25",
+      "value": 20.8,
+      "unit": "\u00b5g/m\u00b3",
+      "date": {
+        "utc": "2026-10-07T23:00:00Z"
+      }
+    }
+  ]
+}

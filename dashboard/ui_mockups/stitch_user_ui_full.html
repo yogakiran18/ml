@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "on-tertiary-container": "#613b00", "primary-fixed-dim": "#7bd0ff", "surface-variant": "#273647", "on-secondary-fixed": "#002113", "on-error": "#690005", "on-error-container": "#ffdad6", "primary": "#8ed5ff", "background": "#051424", "on-background": "#d4e4fa", "on-tertiary": "#472a00", "surface-container-highest": "#273647", "secondary-container": "#00a572", "on-primary": "#00354a", "surface-container-high": "#1c2b3c", "surface-bright": "#2c3a4c", "surface": "#051424", "error": "#ffb4ab", "on-primary-fixed-variant": "#004c69", "error-container": "#93000a", "on-tertiary-fixed-variant": "#653e00", "on-primary-fixed": "#001e2c", "on-primary-container": "#004965", "surface-tint": "#7bd0ff", "outline": "#87929a", "tertiary-fixed-dim": "#ffb95f", "on-surface": "#d4e4fa", "inverse-on-surface": "#233143", "surface-container": "#122131", "secondary-fixed": "#6ffbbe", "inverse-surface": "#d4e4fa", "on-secondary-container": "#00311f", "secondary": "#4edea3", "inverse-primary": "#00668a", "on-surface-variant": "#bdc8d1", "on-tertiary-fixed": "#2a1700", "on-secondary-fixed-variant": "#005236", "tertiary": "#ffc174", "surface-dim": "#051424", "primary-fixed": "#c4e7ff", "tertiary-container": "#f59e0b", "primary-container": "#38bdf8", "secondary-fixed-dim": "#4edea3", "surface-container-lowest": "#010f1f", "on-secondary": "#003824", "tertiary-fixed": "#ffddb8", "outline-variant": "#3e484f", "surface-container-low": "#0d1c2d" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-2xs": "0.25rem", "space-xl": "2rem", "space-lg": "1.5rem", "space-sm": "0.75rem", "space-2xl": "2.5rem", "margin-mobile": "1.25rem", "gutter-tablet": "1.5rem", "space-xs": "0.5rem", "margin-tablet": "2rem", "space-md": "1rem", "gutter-mobile": "1rem", "space-3xl": "3.5rem" }, "fontFamily": { "body-sm": ["Inter"], "display-xl-mobile": ["Inter"], "display-xl": ["Inter"], "headline-sm": ["Inter"], "headline-lg": ["Inter"], "label-lg": ["Inter"], "body-md": ["Inter"], "display-lg-mobile": ["Inter"], "label-md": ["Inter"], "body-lg": ["Inter"], "metric-tabular": ["Inter"], "headline-md": ["Inter"], "label-sm": ["Inter"], "display-lg": ["Inter"] }, "fontSize": { "body-sm": ["12px", { "lineHeight": "16px", "letterSpacing": "0.01em", "fontWeight": "400" }], "display-xl-mobile": ["52px", { "lineHeight": "56px", "letterSpacing": "-0.03em", "fontWeight": "300" }], "display-xl": ["64px", { "lineHeight": "68px", "letterSpacing": "-0.03em", "fontWeight": "300" }], "headline-sm": ["18px", { "lineHeight": "24px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "headline-lg": ["28px", { "lineHeight": "34px", "letterSpacing": "-0.02em", "fontWeight": "600" }], "label-lg": ["14px", { "lineHeight": "18px", "letterSpacing": "0.02em", "fontWeight": "500" }], "body-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0.005em", "fontWeight": "400" }], "display-lg-mobile": ["36px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "400" }], "label-md": ["12px", { "lineHeight": "16px", "letterSpacing": "0.04em", "fontWeight": "600" }], "body-lg": ["16px", { "lineHeight": "24px", "letterSpacing": "0em", "fontWeight": "400" }], "metric-tabular": ["20px", { "lineHeight": "24px", "letterSpacing": "-0.01em", "fontWeight": "500" }], "headline-md": ["22px", { "lineHeight": "28px", "letterSpacing": "-0.015em", "fontWeight": "600" }], "label-sm": ["10px", { "lineHeight": "12px", "letterSpacing": "0.06em", "fontWeight": "600" }], "display-lg": ["44px", { "lineHeight": "48px", "letterSpacing": "-0.025em", "fontWeight": "400" }] } } } }</script><style>@layer base{html,body{width:100vw;margin:0;padding:0;background-color:#051424;color:#d4e4fa;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head><body class="bg-surface font-body-md text-on-surface flex flex-col min-h-screen"><header class="fixed top-0 inset-x-0 z-50 bg-surface/80 backdrop-blur-xl pt-safe"><div class="h-16 px-margin-mobile flex items-center justify-between gap-space-sm"><div class="flex items-center gap-space-xs"><img alt="AeroPulse App Icon" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1XuPeF4sed0jTBwDo0TkSY3xOwZ2sNqRqWx8Xvn162gd0FMZCI_mvOg78j2c7yX8pOQma3qwSIbSCmayvXmlNDMIP2YjZsDOw5mzKwyc08CY-3Dxr8DIVlehjt-idCDqGzhWbvCTYnl7YkKddN8JXNuBTX2vumgpF-9D380RhTsVvN45djphgEsk6VSAAMvIU4nEURm_hDnjMaKLbqOMeR5rugoWZbdKIzfOUq55rjM2MZ8zmjNYYZVMxs"/><span class="font-headline-sm text-headline-sm tracking-tight text-primary font-bold">AeroPulse</span></div><button class="flex items-center gap-space-2xs px-space-sm py-space-xs rounded-full bg-surface-container/60 hover:bg-surface-container transition-colors min-h-[44px] max-w-[160px] truncate"><span class="material-symbols-outlined text-secondary text-[18px] shrink-0">location_on</span><span class="font-label-sm text-label-sm text-on-surface-variant truncate">Central District, San Francisco</span></button><a class="shrink-0 min-w-[44px] min-h-[44px] flex items-center justify-end" data-path="profile-settings" href="#"><img alt="Profile" class="w-8 h-8 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCaVHvT2TTNX0ftZCvr1MsKpHcczT-shT4xjX1gIWQBb87vlclBNXoPn_uMqkIQPKR9um3RDXHpbQQH_UfC495mnLnLjpqGXBHXIaFQIAfAoDNsCxWi5-gaiazv-Sy4rLP6SNHzi0PxpJUl3L0FEpQC4XGo8M754p8NlhWNybU_SFIexRdss8xOATH4S9GYeR1yXT9aVKCNmW-7ZA2-9M_87fwWx3lCw6LNwQnbsltFZhfV7MVGPPFT"/></a></div></header><main class="flex flex-col relative w-full pt-16 pb-24 bg-surface min-h-screen"><div class="flex flex-col w-full px-margin-mobile pb-space-2xl space-y-space-lg">
+<!-- Status / Beacon Sub-bar -->
+<div class="flex items-center justify-between pt-space-xs">
+<div class="flex items-center gap-space-xs">
+<div class="relative flex items-center justify-center w-3 h-3">
+<span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-secondary opacity-75"></span>
+<span class="relative inline-flex rounded-full h-2 w-2 bg-secondary"></span>
+</div>
+<span class="font-label-sm text-label-sm uppercase tracking-wider text-secondary font-semibold">Live Telemetry</span>
+<span class="font-body-sm text-body-sm text-outline-variant">•</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant truncate">Presidio Station #04</span>
+</div>
+<span class="font-body-sm text-body-sm text-outline">Updated 2m ago</span>
+</div>
+<!-- Hero Live Dual Atmospheric Card -->
+<div class="relative overflow-hidden rounded-xl bg-surface-container/60 backdrop-blur-xl p-space-lg shadow-xl shadow-surface-container-lowest/80">
+<!-- Ambient Atmospheric Glows -->
+<div class="absolute -top-20 -right-20 w-48 h-48 rounded-full bg-secondary/10 blur-3xl pointer-events-none"></div>
+<div class="absolute -bottom-16 -left-16 w-44 h-44 rounded-full bg-primary-container/10 blur-3xl pointer-events-none"></div>
+<div class="relative z-10 flex flex-col space-y-space-lg">
+<!-- Top Section: Temperature & Primary Weather Status -->
+<div class="flex items-start justify-between">
+<div>
+<div class="flex items-baseline gap-space-2xs">
+<span class="font-display-xl-mobile text-display-xl-mobile text-on-surface tracking-tight font-light">68</span>
+<span class="font-headline-lg text-headline-lg text-primary">°F</span>
+</div>
+<p class="font-label-lg text-label-lg text-on-surface-variant flex items-center gap-space-2xs mt-space-2xs">
+<span class="material-symbols-outlined text-primary text-[18px]">partly_cloudy_day</span>
+            Partly Cloudy
+          </p>
+<p class="font-body-sm text-body-sm text-outline mt-0.5">H: 72° • L: 54°</p>
+</div>
+<!-- Interactive Luminous AQI Gauge -->
+<div class="flex flex-col items-center">
+<div class="relative w-28 h-28 flex items-center justify-center">
+<svg class="w-full h-full -rotate-90 transform" viewbox="0 0 100 100">
+<!-- Gauge Background Arc -->
+<circle class="text-surface-variant" cx="50" cy="50" fill="transparent" r="40" stroke="currentColor" stroke-dasharray="200" stroke-dashoffset="45" stroke-linecap="round" stroke-width="7"></circle>
+<!-- Active Glow Arc -->
+<circle class="text-secondary" cx="50" cy="50" fill="transparent" r="40" stroke="currentColor" stroke-dasharray="251.2" stroke-dashoffset="170" stroke-linecap="round" stroke-width="7.5"></circle>
+</svg>
+<div class="absolute flex flex-col items-center justify-center text-center">
+<span class="font-display-lg-mobile text-display-lg-mobile text-on-surface font-semibold leading-none">42</span>
+<span class="font-label-sm text-label-sm text-secondary uppercase font-bold tracking-wider mt-0.5">AQI</span>
+</div>
+</div>
+<div class="mt-1 flex items-center gap-1 px-space-xs py-0.5 rounded-full bg-secondary-container/20">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold uppercase tracking-widest">Good</span>
+</div>
+</div>
+</div>
+<!-- Health Guidance Sentence -->
+<div class="flex items-center gap-space-xs px-space-sm py-space-xs rounded-lg bg-surface-container-high/70">
+<span class="material-symbols-outlined text-secondary text-[20px] shrink-0">spa</span>
+<p class="font-body-sm text-body-sm text-on-surface">Pristine coastal breeze. Perfect conditions for prolonged outdoor exercise.</p>
+</div>
+<!-- Atmospheric Micro Stats Grid -->
+<div class="grid grid-cols-4 gap-space-xs pt-space-xs">
+<div class="flex flex-col items-center text-center p-space-xs rounded-lg bg-surface-container-lowest/60">
+<span class="material-symbols-outlined text-primary text-[18px]">humidity_mid</span>
+<span class="font-label-sm text-label-sm text-outline mt-1">Humidity</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">58%</span>
+</div>
+<div class="flex flex-col items-center text-center p-space-xs rounded-lg bg-surface-container-lowest/60">
+<span class="material-symbols-outlined text-primary text-[18px]">air</span>
+<span class="font-label-sm text-label-sm text-outline mt-1">Wind</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">12 <span class="text-body-sm font-normal">mph</span></span>
+</div>
+<div class="flex flex-col items-center text-center p-space-xs rounded-lg bg-surface-container-lowest/60">
+<span class="material-symbols-outlined text-tertiary text-[18px]">wb_sunny</span>
+<span class="font-label-sm text-label-sm text-outline mt-1">UV Index</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">3 <span class="text-body-sm font-normal">Mod</span></span>
+</div>
+<div class="flex flex-col items-center text-center p-space-xs rounded-lg bg-surface-container-lowest/60">
+<span class="material-symbols-outlined text-primary text-[18px]">compress</span>
+<span class="font-label-sm text-label-sm text-outline mt-1">Pressure</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">1014</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Atmospheric Forecast Timeline -->
+<div class="flex flex-col space-y-space-sm">
+<div class="flex items-center justify-between">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-space-2xs">
+<span class="material-symbols-outlined text-primary text-[20px]">schedule</span>
+        Hourly Forecast
+      </h2>
+<button class="font-label-md text-label-md text-primary hover:text-primary-fixed-dim transition-colors">24h Radar</button>
+</div>
+<div class="flex gap-space-xs overflow-x-auto pb-space-2xs -mx-margin-mobile px-margin-mobile">
+<!-- Hourly Card 1 (Now) -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container/70 shadow-md">
+<span class="font-label-sm text-label-sm text-primary font-semibold">Now</span>
+<span class="material-symbols-outlined text-primary text-[22px] my-space-xs">partly_cloudy_day</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">68°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-secondary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">42</span>
+</div>
+</div>
+<!-- Hourly Card 2 -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container-low/70">
+<span class="font-label-sm text-label-sm text-on-surface-variant">1 PM</span>
+<span class="material-symbols-outlined text-tertiary text-[22px] my-space-xs">sunny</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">70°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-secondary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">44</span>
+</div>
+</div>
+<!-- Hourly Card 3 -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container-low/70">
+<span class="font-label-sm text-label-sm text-on-surface-variant">2 PM</span>
+<span class="material-symbols-outlined text-tertiary text-[22px] my-space-xs">sunny</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">72°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-secondary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">48</span>
+</div>
+</div>
+<!-- Hourly Card 4 -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container-low/70">
+<span class="font-label-sm text-label-sm text-on-surface-variant">3 PM</span>
+<span class="material-symbols-outlined text-primary text-[22px] my-space-xs">partly_cloudy_day</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">71°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-tertiary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-tertiary"></span>
+<span class="font-label-sm text-label-sm text-tertiary font-bold">52</span>
+</div>
+</div>
+<!-- Hourly Card 5 -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container-low/70">
+<span class="font-label-sm text-label-sm text-on-surface-variant">4 PM</span>
+<span class="material-symbols-outlined text-primary text-[22px] my-space-xs">air</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">69°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-secondary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">39</span>
+</div>
+</div>
+<!-- Hourly Card 6 -->
+<div class="flex flex-col items-center min-w-[76px] p-space-sm rounded-xl bg-surface-container-low/70">
+<span class="font-label-sm text-label-sm text-on-surface-variant">5 PM</span>
+<span class="material-symbols-outlined text-primary text-[22px] my-space-xs">cloud</span>
+<span class="font-metric-tabular text-body-md text-on-surface font-medium">66°</span>
+<div class="mt-space-xs px-space-2xs py-0.5 rounded-full bg-secondary/15 flex items-center gap-1">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">36</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Key Pollutants Snapshot Grid -->
+<div class="flex flex-col space-y-space-sm">
+<div class="flex items-center justify-between">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-space-2xs">
+<span class="material-symbols-outlined text-primary text-[20px]">bubble_chart</span>
+        Key Pollutants
+      </h2>
+<a class="font-label-md text-label-md text-primary hover:underline" data-path="pollutants" href="#">Full Analytics</a>
+</div>
+<div class="grid grid-cols-2 gap-space-sm">
+<!-- PM 2.5 -->
+<div class="flex flex-col justify-between p-space-md rounded-xl bg-surface-container-low/70 shadow-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md text-on-surface-variant font-medium">PM 2.5</span>
+<span class="px-space-2xs py-0.5 rounded-full bg-secondary/15 text-secondary font-label-sm text-label-sm font-semibold">Normal</span>
+</div>
+<div class="my-space-xs">
+<span class="font-display-lg-mobile text-headline-md text-on-surface font-semibold">8.4</span>
+<span class="font-body-sm text-body-sm text-outline ml-1">µg/m³</span>
+</div>
+<div class="w-full bg-surface-variant rounded-full h-1.5 overflow-hidden">
+<div class="bg-secondary h-1.5 rounded-full" style="width: 22%"></div>
+</div>
+</div>
+<!-- PM 10 -->
+<div class="flex flex-col justify-between p-space-md rounded-xl bg-surface-container-low/70 shadow-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md text-on-surface-variant font-medium">PM 10</span>
+<span class="px-space-2xs py-0.5 rounded-full bg-secondary/15 text-secondary font-label-sm text-label-sm font-semibold">Normal</span>
+</div>
+<div class="my-space-xs">
+<span class="font-display-lg-mobile text-headline-md text-on-surface font-semibold">18.2</span>
+<span class="font-body-sm text-body-sm text-outline ml-1">µg/m³</span>
+</div>
+<div class="w-full bg-surface-variant rounded-full h-1.5 overflow-hidden">
+<div class="bg-secondary h-1.5 rounded-full" style="width: 28%"></div>
+</div>
+</div>
+<!-- Ozone O3 -->
+<div class="flex flex-col justify-between p-space-md rounded-xl bg-surface-container-low/70 shadow-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md text-on-surface-variant font-medium">Ozone (O₃)</span>
+<span class="px-space-2xs py-0.5 rounded-full bg-secondary/15 text-secondary font-label-sm text-label-sm font-semibold">Low</span>
+</div>
+<div class="my-space-xs">
+<span class="font-display-lg-mobile text-headline-md text-on-surface font-semibold">32</span>
+<span class="font-body-sm text-body-sm text-outline ml-1">ppb</span>
+</div>
+<div class="w-full bg-surface-variant rounded-full h-1.5 overflow-hidden">
+<div class="bg-secondary h-1.5 rounded-full" style="width: 35%"></div>
+</div>
+</div>
+<!-- Nitrogen Dioxide NO2 -->
+<div class="flex flex-col justify-between p-space-md rounded-xl bg-surface-container-low/70 shadow-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md text-on-surface-variant font-medium">NO₂</span>
+<span class="px-space-2xs py-0.5 rounded-full bg-secondary/15 text-secondary font-label-sm text-label-sm font-semibold">Clean</span>
+</div>
+<div class="my-space-xs">
+<span class="font-display-lg-mobile text-headline-md text-on-surface font-semibold">14</span>
+<span class="font-body-sm text-body-sm text-outline ml-1">ppb</span>
+</div>
+<div class="w-full bg-surface-variant rounded-full h-1.5 overflow-hidden">
+<div class="bg-secondary h-1.5 rounded-full" style="width: 16%"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Real-time Health & Activity Guidance -->
+<div class="flex flex-col space-y-space-sm">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-space-2xs">
+<span class="material-symbols-outlined text-primary text-[20px]">health_and_safety</span>
+      Actionable Guidance
+    </h2>
+<div class="flex flex-col space-y-space-xs rounded-xl bg-surface-container/70 p-space-md shadow-md">
+<!-- Row 1: Running -->
+<div class="flex items-center justify-between py-space-xs">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-secondary/15 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">directions_run</span>
+</div>
+<div>
+<h4 class="font-label-lg text-label-lg text-on-surface font-semibold">Outdoor Running</h4>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Ideal conditions across parks and trails</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-secondary text-[22px]">check_circle</span>
+</div>
+<div class="w-full h-px bg-surface-variant/40"></div>
+<!-- Row 2: Sensitive Groups -->
+<div class="flex items-center justify-between py-space-xs">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-primary/15 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-primary text-[22px]">chevron_left</span>
+</div>
+<div>
+<h4 class="font-label-lg text-label-lg text-on-surface font-semibold">Sensitive Groups</h4>
+<p class="font-body-sm text-body-sm text-on-surface-variant">No respiratory masks or filtering needed</p>
+</div>
+</div>
+<span class="font-label-sm text-label-sm text-primary font-bold px-space-2xs py-0.5 rounded-full bg-primary/10">Low Risk</span>
+</div>
+<div class="w-full h-px bg-surface-variant/40"></div>
+<!-- Row 3: Ventilation -->
+<div class="flex items-center justify-between py-space-xs">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 rounded-full bg-secondary/15 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">window</span>
+</div>
+<div>
+<h4 class="font-label-lg text-label-lg text-on-surface font-semibold">Home Ventilation</h4>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Open windows for clean air exchange</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-secondary text-[22px]">check_circle</span>
+</div>
+</div>
+</div>
+<!-- Surrounding Observation Stations Ticker -->
+<div class="flex flex-col space-y-space-sm">
+<div class="flex items-center justify-between">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-space-2xs">
+<span class="material-symbols-outlined text-primary text-[20px]">near_me</span>
+        Nearby Stations
+      </h2>
+<a class="font-label-md text-label-md text-primary hover:underline" data-path="radar-map" href="#">Explore Map</a>
+</div>
+<div class="flex flex-col space-y-space-xs">
+<div class="flex items-center justify-between p-space-sm rounded-lg bg-surface-container-low/60 hover:bg-surface-container-low transition-colors">
+<div class="flex items-center gap-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-secondary"></span>
+<span class="font-label-lg text-label-lg text-on-surface font-medium">Ocean Beach Coastal</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="font-metric-tabular text-body-md text-on-surface font-semibold">28</span>
+<span class="font-label-sm text-label-sm text-secondary font-bold uppercase">Good</span>
+</div>
+</div>
+<div class="flex items-center justify-between p-space-sm rounded-lg bg-surface-container-low/60 hover:bg-surface-container-low transition-colors">
+<div class="flex items-center gap-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-secondary"></span>
+<span class="font-label-lg text-label-lg text-on-surface font-medium">Mission District Micro</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="font-metric-tabular text-body-md text-on-surface font-semibold">46</span>
+<span class="font-label-sm text-label-sm text-secondary font-bold uppercase">Good</span>
+</div>
+</div>
+<div class="flex items-center justify-between p-space-sm rounded-lg bg-surface-container-low/60 hover:bg-surface-container-low transition-colors">
+<div class="flex items-center gap-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-tertiary"></span>
+<span class="font-label-lg text-label-lg text-on-surface font-medium">Downtown Financial Transit</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="font-metric-tabular text-body-md text-on-surface font-semibold">58</span>
+<span class="font-label-sm text-label-sm text-tertiary font-bold uppercase">Moderate</span>
+</div>
+</div>
+</div>
+</div>
+</div></main><nav class="fixed bottom-0 inset-x-0 z-50 pb-safe bg-surface-container-lowest/80 backdrop-blur-2xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]" data-active-classes="text-primary font-label-md"><div class="flex justify-around items-center h-20 px-margin-mobile"><a aria-current="page" class="flex flex-col items-center justify-center gap-space-2xs min-w-[44px] min-h-[44px] py-space-xs px-space-sm rounded-xl transition-all text-primary font-label-md" data-path="dashboard" href="#"><span class="material-symbols-outlined text-[24px]">vital_signs</span><span class="font-label-sm text-label-sm">Dashboard</span></a><a class="flex flex-col items-center justify-center gap-space-2xs min-w-[44px] min-h-[44px] py-space-xs px-space-sm rounded-xl text-on-surface-variant hover:text-on-surface transition-all" data-path="pollutants" href="#"><span class="material-symbols-outlined text-[24px]">blur_on</span><span class="font-label-sm text-label-sm">Pollutants</span></a><a class="flex flex-col items-center justify-center gap-space-2xs min-w-[44px] min-h-[44px] py-space-xs px-space-sm rounded-xl text-on-surface-variant hover:text-on-surface transition-all" data-path="radar-map" href="#"><span class="material-symbols-outlined text-[24px]">radar</span><span class="font-label-sm text-label-sm">Radar Map</span></a><a class="flex flex-col items-center justify-center gap-space-2xs min-w-[44px] min-h-[44px] py-space-xs px-space-sm rounded-xl text-on-surface-variant hover:text-on-surface transition-all" data-path="advisories" href="#"><span class="material-symbols-outlined text-[24px]">shield</span><span class="font-label-sm text-label-sm">Advisories</span></a></div></nav></body></html>

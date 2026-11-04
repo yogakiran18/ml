@@ -1,0 +1,181 @@
+[2026-09-08 17:49:41] [INFO] ============================================================
+[2026-09-08 17:49:41] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-08 17:49:41] [INFO] ============================================================
+[2026-09-08 17:50:18] [INFO] ============================================================
+[2026-09-08 17:50:18] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-08 17:50:18] [INFO] ============================================================
+[2026-09-08 17:50:46] [INFO] ============================================================
+[2026-09-08 17:50:46] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-08 17:50:46] [INFO] ============================================================
+[2026-09-08 17:50:47] [INFO] >> Starting: Extract OpenMeteo
+[2026-09-08 17:52:12] [INFO] [OK] Completed: Extract OpenMeteo (84.8s)
+[2026-09-08 17:52:12] [INFO] >> Starting: Extract OpenAQ
+[2026-09-08 17:52:12] [INFO] [OK] Completed: Extract OpenAQ (0.4s)
+[2026-09-08 17:52:13] [INFO] >> Starting: Validate OpenAQ
+[2026-09-08 17:52:21] [INFO] [OK] Completed: Validate OpenAQ (7.8s)
+[2026-09-08 17:52:21] [INFO] >> Starting: Validate OpenMeteo
+[2026-09-08 17:52:44] [INFO] [OK] Completed: Validate OpenMeteo (23.4s)
+[2026-09-08 17:52:44] [INFO] >> Starting: Clean OpenAQ
+[2026-09-08 17:52:45] [INFO] [OK] Completed: Clean OpenAQ (0.8s)
+[2026-09-08 17:52:45] [INFO] >> Starting: Clean OpenMeteo
+[2026-09-08 17:52:46] [INFO] [OK] Completed: Clean OpenMeteo (0.6s)
+[2026-09-08 17:52:46] [INFO] >> Starting: Transform Data
+[2026-09-08 17:52:46] [INFO] [OK] Completed: Transform Data (0.8s)
+[2026-09-08 17:52:46] [INFO] >> Starting: Load to SQLite
+[2026-09-08 17:52:47] [INFO] [OK] Completed: Load to SQLite (1.0s)
+[2026-09-08 17:52:47] [INFO] >> Starting: Build ML Features
+[2026-09-08 17:52:47] [INFO] [OK] Completed: Build ML Features (0.0s)
+[2026-09-08 17:52:50] [INFO] >> Starting: Train & Register Model
+[2026-09-08 17:53:08] [INFO] [OK] Completed: Train & Register Model (17.8s)
+[2026-09-08 17:53:08] [INFO] AQI PIPELINE RUN COMPLETED (141.4s total)
+[2026-09-08 17:53:08] [INFO] ============================================================
+[2026-09-08 19:37:11] [INFO] ============================================================
+[2026-09-08 19:37:11] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-08 19:37:12] [INFO] ============================================================
+[2026-09-08 19:37:12] [INFO] >> Starting: Extract OpenMeteo
+[2026-09-08 19:37:12] [INFO] [OK] Completed: Extract OpenMeteo (0.0s)
+[2026-09-08 19:37:12] [INFO] >> Starting: Extract OpenAQ
+[2026-09-08 19:37:12] [INFO] [OK] Completed: Extract OpenAQ (0.0s)
+[2026-09-08 19:37:12] [INFO] >> Starting: Validate OpenAQ
+[2026-09-08 19:37:16] [INFO] [OK] Completed: Validate OpenAQ (3.6s)
+[2026-09-08 19:37:16] [INFO] >> Starting: Validate OpenMeteo
+[2026-09-08 19:37:42] [INFO] [OK] Completed: Validate OpenMeteo (25.9s)
+[2026-09-08 19:37:42] [INFO] >> Starting: Clean OpenAQ
+[2026-09-08 19:37:43] [INFO] [OK] Completed: Clean OpenAQ (1.0s)
+[2026-09-08 19:37:43] [INFO] >> Starting: Clean OpenMeteo
+[2026-09-08 19:37:44] [INFO] [OK] Completed: Clean OpenMeteo (0.7s)
+[2026-09-08 19:37:44] [INFO] >> Starting: Transform Data
+[2026-09-08 19:37:45] [INFO] [OK] Completed: Transform Data (1.3s)
+[2026-09-08 19:37:45] [INFO] >> Starting: Load to SQLite
+[2026-09-08 19:37:47] [INFO] [OK] Completed: Load to SQLite (1.8s)
+[2026-09-08 19:37:47] [INFO] >> Starting: Build ML Features
+[2026-09-08 19:37:47] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-09-08 19:37:52] [INFO] >> Starting: Train & Register Model
+[2026-09-08 19:38:16] [INFO] [OK] Completed: Train & Register Model (23.9s)
+[2026-09-08 19:38:16] [INFO] AQI PIPELINE RUN COMPLETED (64.5s total)
+[2026-09-08 19:38:16] [INFO] ============================================================
+[2026-09-27 02:00:02] [INFO] ============================================================
+[2026-09-27 02:00:02] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-27 02:00:02] [INFO] ============================================================
+[2026-09-27 02:00:02] [INFO] >> Starting: Extract OpenMeteo
+[2026-09-27 02:01:11] [INFO] [OK] Completed: Extract OpenMeteo (69.2s)
+[2026-09-27 02:01:11] [INFO] >> Starting: Extract OpenAQ
+[2026-09-27 02:02:20] [INFO] [OK] Completed: Extract OpenAQ (68.4s)
+[2026-09-27 02:02:21] [INFO] >> Starting: Validate OpenAQ
+[2026-09-27 02:02:21] [INFO] [OK] Completed: Validate OpenAQ (0.2s)
+[2026-09-27 02:02:21] [INFO] >> Starting: Validate OpenMeteo
+[2026-09-27 02:02:47] [INFO] [OK] Completed: Validate OpenMeteo (25.4s)
+[2026-09-27 02:02:47] [INFO] >> Starting: Clean OpenAQ
+[2026-09-27 02:02:48] [INFO] [OK] Completed: Clean OpenAQ (1.4s)
+[2026-09-27 02:02:48] [INFO] >> Starting: Clean OpenMeteo
+[2026-09-27 02:02:49] [INFO] [OK] Completed: Clean OpenMeteo (0.8s)
+[2026-09-27 02:02:49] [INFO] >> Starting: Transform Data
+[2026-09-27 02:02:50] [INFO] [OK] Completed: Transform Data (1.0s)
+[2026-09-27 02:02:50] [INFO] >> Starting: Load to SQLite
+[2026-09-27 02:02:52] [INFO] [OK] Completed: Load to SQLite (1.8s)
+[2026-09-27 02:02:52] [INFO] >> Starting: Build ML Features
+[2026-09-27 02:02:52] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-09-27 02:02:59] [INFO] >> Starting: Train & Register Model
+[2026-09-27 02:03:32] [INFO] [OK] Completed: Train & Register Model (32.8s)
+[2026-09-27 02:03:32] [INFO] AQI PIPELINE RUN COMPLETED (210.1s total)
+[2026-09-27 02:03:32] [INFO] ============================================================
+[2026-09-30 23:27:55] [INFO] ============================================================
+[2026-09-30 23:27:55] [INFO] AQI PIPELINE RUN STARTED
+[2026-09-30 23:27:55] [INFO] ============================================================
+[2026-09-30 23:27:56] [INFO] >> Starting: Extract OpenMeteo
+[2026-09-30 23:28:35] [INFO] [OK] Completed: Extract OpenMeteo (39.2s)
+[2026-09-30 23:28:35] [INFO] >> Starting: Extract OpenAQ
+[2026-09-30 23:29:15] [INFO] [OK] Completed: Extract OpenAQ (40.1s)
+[2026-09-30 23:29:17] [INFO] >> Starting: Validate OpenAQ
+[2026-09-30 23:29:17] [INFO] [OK] Completed: Validate OpenAQ (0.4s)
+[2026-09-30 23:29:17] [INFO] >> Starting: Validate OpenMeteo
+[2026-09-30 23:29:58] [INFO] [OK] Completed: Validate OpenMeteo (40.5s)
+[2026-09-30 23:29:58] [INFO] >> Starting: Clean OpenAQ
+[2026-09-30 23:30:00] [INFO] [OK] Completed: Clean OpenAQ (2.1s)
+[2026-09-30 23:30:00] [INFO] >> Starting: Clean OpenMeteo
+[2026-09-30 23:30:01] [INFO] [OK] Completed: Clean OpenMeteo (1.3s)
+[2026-09-30 23:30:01] [INFO] >> Starting: Transform Data
+[2026-09-30 23:30:03] [INFO] [OK] Completed: Transform Data (1.6s)
+[2026-09-30 23:30:03] [INFO] >> Starting: Load to SQLite
+[2026-09-30 23:30:05] [INFO] [OK] Completed: Load to SQLite (2.7s)
+[2026-09-30 23:30:05] [INFO] >> Starting: Build ML Features
+[2026-09-30 23:30:05] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-09-30 23:30:14] [INFO] >> Starting: Train & Register Model
+[2026-09-30 23:30:55] [INFO] [OK] Completed: Train & Register Model (41.0s)
+[2026-09-30 23:30:55] [INFO] AQI PIPELINE RUN COMPLETED (179.8s total)
+[2026-09-30 23:30:55] [INFO] ============================================================
+[2026-10-14 02:00:02] [INFO] ============================================================
+[2026-10-14 02:00:02] [INFO] AQI PIPELINE RUN STARTED
+[2026-10-14 02:00:02] [INFO] ============================================================
+[2026-10-14 02:00:02] [INFO] >> Starting: Extract OpenMeteo
+[2026-10-14 14:53:25] [INFO] ============================================================
+[2026-10-14 14:53:25] [INFO] AQI PIPELINE RUN STARTED
+[2026-10-14 14:53:25] [INFO] ============================================================
+[2026-10-14 14:53:27] [INFO] >> Starting: Extract OpenMeteo
+[2026-10-14 14:56:26] [INFO] [OK] Completed: Extract OpenMeteo (179.3s)
+[2026-10-14 14:56:26] [INFO] >> Starting: Extract OpenAQ
+[2026-10-14 15:16:24] [INFO] [OK] Completed: Extract OpenAQ (1198.7s)
+[2026-10-14 15:16:28] [INFO] >> Starting: Validate OpenAQ
+[2026-10-14 15:16:30] [INFO] [OK] Completed: Validate OpenAQ (1.8s)
+[2026-10-14 15:16:30] [INFO] >> Starting: Validate OpenMeteo
+[2026-10-14 15:17:28] [INFO] [OK] Completed: Validate OpenMeteo (57.8s)
+[2026-10-14 15:17:28] [INFO] >> Starting: Clean OpenAQ
+[2026-10-14 15:17:30] [INFO] [OK] Completed: Clean OpenAQ (2.7s)
+[2026-10-14 15:17:30] [INFO] >> Starting: Clean OpenMeteo
+[2026-10-14 15:17:32] [INFO] [OK] Completed: Clean OpenMeteo (1.6s)
+[2026-10-14 15:17:32] [INFO] >> Starting: Transform Data
+[2026-10-14 15:17:34] [INFO] [OK] Completed: Transform Data (1.9s)
+[2026-10-14 15:17:34] [INFO] >> Starting: Load to SQLite
+[2026-10-14 15:17:36] [INFO] [OK] Completed: Load to SQLite (2.4s)
+[2026-10-14 15:17:36] [INFO] >> Starting: Build ML Features
+[2026-10-14 15:17:36] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-10-14 15:17:43] [INFO] >> Starting: Train & Register Model
+[2026-10-14 15:18:27] [INFO] [OK] Completed: Train & Register Model (44.3s)
+[2026-10-14 15:18:27] [INFO] AQI PIPELINE RUN COMPLETED (1501.6s total)
+[2026-10-14 15:18:27] [INFO] ============================================================
+[2026-10-15 12:29:02] [INFO] ============================================================
+[2026-10-15 12:29:02] [INFO] AQI PIPELINE RUN STARTED
+[2026-10-15 12:29:02] [INFO] ============================================================
+[2026-10-15 12:29:03] [INFO] >> Starting: Extract OpenMeteo
+[2026-10-15 12:29:12] [INFO] [OK] Completed: Extract OpenMeteo (9.0s)
+[2026-10-15 12:29:12] [INFO] >> Starting: Extract OpenAQ
+[2026-10-15 12:29:21] [INFO] [OK] Completed: Extract OpenAQ (9.3s)
+[2026-10-15 12:29:22] [INFO] >> Starting: Validate OpenAQ
+[2026-10-15 12:29:23] [INFO] [OK] Completed: Validate OpenAQ (0.4s)
+[2026-10-15 12:29:23] [INFO] >> Starting: Validate OpenMeteo
+[2026-10-15 12:30:02] [INFO] [OK] Completed: Validate OpenMeteo (39.2s)
+[2026-10-15 12:30:02] [INFO] >> Starting: Clean OpenAQ
+[2026-10-15 12:30:04] [INFO] [OK] Completed: Clean OpenAQ (2.4s)
+[2026-10-15 12:30:04] [INFO] >> Starting: Clean OpenMeteo
+[2026-10-15 12:30:06] [INFO] [OK] Completed: Clean OpenMeteo (1.6s)
+[2026-10-15 12:30:06] [INFO] >> Starting: Transform Data
+[2026-10-15 12:30:08] [INFO] [OK] Completed: Transform Data (1.8s)
+[2026-10-15 12:30:08] [INFO] >> Starting: Load to SQLite
+[2026-10-15 12:30:10] [INFO] [OK] Completed: Load to SQLite (2.7s)
+[2026-10-15 12:30:10] [INFO] >> Starting: Build ML Features
+[2026-10-15 12:30:11] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-10-15 12:30:27] [INFO] ============================================================
+[2026-10-15 12:30:27] [INFO] AQI PIPELINE RUN STARTED
+[2026-10-15 12:30:27] [INFO] ============================================================
+[2026-10-15 12:30:28] [INFO] >> Starting: Extract OpenMeteo
+[2026-10-15 12:30:28] [INFO] [OK] Completed: Extract OpenMeteo (0.0s)
+[2026-10-15 12:30:28] [INFO] >> Starting: Extract OpenAQ
+[2026-10-15 12:30:28] [INFO] [OK] Completed: Extract OpenAQ (0.0s)
+[2026-10-15 12:30:28] [INFO] >> Starting: Validate OpenAQ
+[2026-10-15 12:30:29] [INFO] [OK] Completed: Validate OpenAQ (0.4s)
+[2026-10-15 12:30:29] [INFO] >> Starting: Validate OpenMeteo
+[2026-10-15 12:31:16] [INFO] [OK] Completed: Validate OpenMeteo (47.8s)
+[2026-10-15 12:31:16] [INFO] >> Starting: Clean OpenAQ
+[2026-10-15 12:31:18] [INFO] [OK] Completed: Clean OpenAQ (1.8s)
+[2026-10-15 12:31:18] [INFO] >> Starting: Clean OpenMeteo
+[2026-10-15 12:31:20] [INFO] [OK] Completed: Clean OpenMeteo (1.3s)
+[2026-10-15 12:31:20] [INFO] >> Starting: Transform Data
+[2026-10-15 12:31:21] [INFO] [OK] Completed: Transform Data (1.7s)
+[2026-10-15 12:31:21] [INFO] >> Starting: Load to SQLite
+[2026-10-15 12:31:23] [INFO] [OK] Completed: Load to SQLite (2.0s)
+[2026-10-15 12:31:23] [INFO] >> Starting: Build ML Features
+[2026-10-15 12:31:23] [INFO] [OK] Completed: Build ML Features (0.1s)
+[2026-10-15 12:31:31] [INFO] >> Starting: Train & Register Model
+[2026-10-15 12:32:11] [INFO] [OK] Completed: Train & Register Model (40.2s)
+[2026-10-15 12:32:11] [INFO] AQI PIPELINE RUN COMPLETED (103.8s total)
+[2026-10-15 12:32:11] [INFO] ============================================================
